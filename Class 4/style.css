@@ -1,0 +1,17 @@
+*{
+    background-color:rosybrown;
+}
+h1{
+
+    color: chocolate;
+}
+p{
+    /* color:rgb(127 0 165); */
+    color: #2469f2d2;
+}
+#heading-main{
+    color: red;
+}
+.para-class{
+    background-color: aquamarine;
+}
