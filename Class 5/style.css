@@ -1,0 +1,9 @@
+.main-para{
+ text-align: center;
+ /* text-decoration: underline; */
+ /* text-decoration: overline; */
+ /* text-decoration: line-through; */
+ font-weight: 900;
+ /* https://www.w3schools.com/cssref/playdemo.php?filename=playcss_font-family */
+ font-family: Arial, Helvetica, sans-serif;
+}
